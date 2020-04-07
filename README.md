@@ -31,7 +31,7 @@ Took a few liberties to add some extras:
 -BaseGetController which was used for implementing the TagsController just to demonstrate it's use
 -The PostsController is implemented without a BaseCRUD/BaseGet 
 -I added an error filter as a means to streamline handling exceptions
--I intended to implement an extra with Author and BasicAuthorization but didn't do it just to not complicate things at the moment, if you'd like to see that implemented feel free to as
+-I intended to implement an extra with Author and BasicAuthorization but didn't do it just to not complicate things at the moment, if you'd like to see that implemented feel free to ask
 -Some other thingies you might come accross
 
 Added a few comments throughout the code for clarification. All the best!
