@@ -35,5 +35,5 @@ Took a few liberties to add some extras:
 -I intended to implement an extra with Author and BasicAuthorization but didn't do it just to not complicate things at the moment, if you'd like to see that implemented feel free to ask
 -Some other thingies you might come accross
 
-Added a few comments throughout the code for clarification. All the best!
+Added a few comments throughout the code for clarification. Happy testing and all the best!
 
