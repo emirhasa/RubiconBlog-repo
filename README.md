@@ -5,7 +5,7 @@ Testing - two methods:
 
 Method 1:
 -why bother with the 2nd method when you can just try it live? I went ahead and took the liberty of hosting it quickly on the
-subdomain I use the portfolio for
+subdomain I use for the portfolio
 https://api.rblog.brodev.info 
 https://api.rblog.brodev.info/swagger/index.html
 
