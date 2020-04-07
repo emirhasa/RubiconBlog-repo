@@ -1,1 +1,2 @@
- - `raw.githubusercontent.com/emirhasa/RubiconBlog-repo/master/img/Scheme.png`
+![alt text](https://raw.githubusercontent.com/emirhasa/RubiconBlog-repo/master/img/Scheme.png)
+
