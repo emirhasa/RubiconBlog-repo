@@ -26,6 +26,7 @@ Of course, certain parts can be upgraded/coded differently but I believe this is
 and as such it's my opinion it will serve well.
 
 Took a few liberties to add some extras:
+-All DateTimes created in the project are converted to UTC
 -Added and configured AutoMapper
 -The endpoint models(or if you like ViewModels) for the classes are in a separate project, referenced by the API
 -BaseGetController which was used for implementing the TagsController just to demonstrate it's use
